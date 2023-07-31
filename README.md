@@ -21,5 +21,6 @@ In order of importance:
 * https://marlinfw.org/meta/gcode/
 * https://3dprinterly.com/ultimate-marlin-g-code-guide-how-to-use-them-for-3d-printing/
 * https://3dprintingwiz.com/gcode-pause/ 
+* https://www.askpython.com/python/built-in-methods/modify-text-file-python
 
 
